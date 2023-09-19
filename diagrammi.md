@@ -3,3 +3,6 @@
 
 ## diagramma di sequenza
 ![diagramma di sequenza](DiagSeq.jpg)
+
+## diagramma software
+![diagramma dosftware](DiagSoft.jpg)
